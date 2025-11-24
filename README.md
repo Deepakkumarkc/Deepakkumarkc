@@ -16,6 +16,17 @@ I enjoy turning complex business rules into **clean, reliable technical solution
 
 ---
 
+## 🌐 **Connect With Me**
+<p align="left">
+  <a href="mailto:parkadheananth1998@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/deepak-kumar-44969123a/"><img src="https://img.shields.io/badge/LinkedIn-Deepak_Kumar_KC-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://github.com/Deepakkumarkc"><img src="https://img.shields.io/badge/GitHub-Deepakkumarkc-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://stackoverflow.com/users/14381274/deepak-ananth"><img src="https://img.shields.io/badge/StackOverflow-Add_Link-F48024?style=for-the-badge&logo=stackoverflow"/></a>
+  <a href="https://medium.com/@Deepakananthkc"><img src="https://img.shields.io/badge/Medium-Add_Link-000000?style=for-the-badge&logo=medium"/></a>
+</p>
+
+---
+
 ## 🛠️ **Skills & Technologies**
 
 ### **☁️ Cloud & Data Engineering**
@@ -81,14 +92,10 @@ I enjoy turning complex business rules into **clean, reliable technical solution
 
 ---
 
-## 🌐 **Connect With Me**
-<p align="left">
-  <a href="mailto:parkadheananth1998@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/deepak-kumar-44969123a/"><img src="https://img.shields.io/badge/LinkedIn-Deepak_Kumar_KC-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://github.com/Deepakkumarkc"><img src="https://img.shields.io/badge/GitHub-Deepakkumarkc-181717?style=for-the-badge&logo=github"/></a>
-  <a href="https://stackoverflow.com/users/14381274/deepak-ananth"><img src="https://img.shields.io/badge/StackOverflow-Add_Link-F48024?style=for-the-badge&logo=stackoverflow"/></a>
-  <a href="https://medium.com/@Deepakananthkc"><img src="https://img.shields.io/badge/Medium-Add_Link-000000?style=for-the-badge&logo=medium"/></a>
-</p>
+## 📬 **Contact**
+📧 Email: **parkadheananth1998@gmail.com**  
+🔗 LinkedIn: **Deepak Kumar**  
+🌐 GitHub: **Deepakkumarkc**
 
 ---
 
