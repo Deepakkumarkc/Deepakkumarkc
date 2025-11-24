@@ -64,9 +64,11 @@ I enjoy turning complex business rules into **clean, reliable technical solution
 
 ## ⚙️ **Tech Stack (Visual Overview)**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,py,git,github,mssql,linux,powershell" />
-  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="48" />
+  <img src="https://skillicons.dev/icons?i=azure,py,git,github,linux,powershell" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" />
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="50" />
 </p>
+
 
 
 ---
