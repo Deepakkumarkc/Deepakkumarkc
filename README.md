@@ -64,15 +64,17 @@ I enjoy turning complex business rules into **clean, reliable technical solution
 
 ## ⚙️ **Tech Stack (Visual Overview)**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,py,git,github,sqlserver,oracle,linux,powershell" />
+  <img src="https://skillicons.dev/icons?i=azure,py,git,github,mssql,linux,powershell" />
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="48" />
 </p>
+
 
 ---
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Deepakkumarkc&theme=tokyonight&show_icons=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakkumarkc&layout=compact&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Deepakkumarkc&theme=tokyonight&show_icons=true" />
+  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Deepakkumarkc&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
