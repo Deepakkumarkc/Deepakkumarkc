@@ -1,5 +1,7 @@
 <!-- Header Banner (Soft Gradient + Coding Animation) -->
-<p align="center"> <img src="https://64.media.tumblr.com/e5f9c467657929949f508c90b0e52701/tumblr_nzg62657j61sfie3mo1_540.gif" alt="Professional Data Engineering and Server Coding" width="800"/> </p>
+<p align="center">
+  <img src="https://onlinedegrees.sandiego.edu/data-architect-career/" width="900" alt="Data Engineering Banner"/>
+</p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#4DA1FF">Deepak Kumar KC</span></h1>
 <h3 align="center" style="color:#C084FC">Azure Data Engineer | SQL Developer | ETL/ELT Specialist</h3>
