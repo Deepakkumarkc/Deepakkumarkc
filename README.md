@@ -101,7 +101,8 @@ I enjoy turning complex business rules into **clean, reliable technical solution
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Deepakkumarkc/Deepakkumarkc/main/assets/data-footer.gif" width="850" alt="Footer Animation"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+
   <br/>
   <b>💡 Focused on clean data, scalable pipelines & optimized performance.<br/>🏆 Star Performance Award – 2023</b>
 </p>
