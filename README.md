@@ -1,6 +1,6 @@
 <!-- Header Banner (Soft Gradient + Coding Animation) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Deepakkumarkc/Deepakkumarkc/main/assets/data-engineering-banner.gif" width="900" hight = "90" alt="Data Engineering Banner"/>
+  <img src="https://raw.githubusercontent.com/Deepakkumarkc/Deepakkumarkc/main/assets/data-engineering-banner_new.gif" width="432px" hight = "90" alt="Data Engineering Banner"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#4DA1FF">Deepak Kumar KC</span></h1>
