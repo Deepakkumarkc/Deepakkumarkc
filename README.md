@@ -100,9 +100,12 @@ I enjoy turning complex business rules into **clean, reliable technical solution
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Deepakkumarkc/Deepakkumarkc/main/assets/data-footer.gif" width="850" 
-  alt="Footer Animation"/>
-  <br/>
-  <b>💡 Focused on clean data, scalable pipelines & optimized performance.<br/>🏆 Star Performance Award – 2023</b>
-</p>
+---
+<div align="center">
+  <p>
+  💡 **Focused on clean data, scalable pipelines & optimized performance.** | Star Performance Award Winner 2023 🏆
+  </p>
+  
+  <img src="https://media.giphy.com/media/26n7bT0i9S4t3R0U0/giphy.gif" alt="Network Data Flow and Technical Interface" width="800"/>
+</div>
+---
