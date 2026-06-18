@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 **About Me**
+## 🚀 ** About Me **
 Passionate **Data Engineer** with 4 years of experience building **ETL/ELT pipelines**, performing **data migration**, and optimizing **SQL & PL/SQL** workloads across large datasets (800GB+).  
 I specialize in designing scalable **Azure-centric data solutions**, orchestrating pipelines with **ADF, Databricks (PySpark)**, and implementing CI/CD through Azure DevOps.
 
