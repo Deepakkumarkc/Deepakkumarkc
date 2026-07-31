@@ -117,46 +117,27 @@ I specialize in **Azure Data Factory (ADF)**, **Azure Databricks (PySpark)**, **
 
 ## 🌐 **Connect & Collaborate**
 
-<!-- Animated Connect Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Deepakkumarkc/Deepakkumarkc/main/assets/connect_social_banner.gif" width="100%" alt="Connect & Collaborate Banner"/>
+  <a href="https://www.linkedin.com/in/deepak-kumar-44969123a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:parkadheananth1998@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Deepakkumarkc">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://stackoverflow.com/users/14381274/deepak-ananth">
+    <img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" />
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@Deepakananthkc">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
 </p>
-
-<!-- Modern Grid Table Card -->
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="20%" valign="middle">
-      <a href="https://www.linkedin.com/in/deepak-kumar-44969123a/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /><br/>
-        <sub><b>Deepak Kumar KC</b></sub>
-      </a>
-    </td>
-    <td align="center" width="20%" valign="middle">
-      <a href="mailto:parkadheananth1998@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><br/>
-        <sub><b>Contact Me</b></sub>
-      </a>
-    </td>
-    <td align="center" width="20%" valign="middle">
-      <a href="https://github.com/Deepakkumarkc">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><br/>
-        <sub><b>@Deepakkumarkc</b></sub>
-      </a>
-    </td>
-    <td align="center" width="20%" valign="middle">
-      <a href="https://stackoverflow.com/users/14381274/deepak-ananth">
-        <img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" /><br/>
-        <sub><b>Deepak Ananth</b></sub>
-      </a>
-    </td>
-    <td align="center" width="20%" valign="middle">
-      <a href="https://medium.com/@Deepakananthkc">
-        <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /><br/>
-        <sub><b>Deepak Ananth KC</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
 
 ---
 
