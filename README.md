@@ -3,6 +3,17 @@
   <img src="https://raw.githubusercontent.com/Deepakkumarkc/Deepakkumarkc/main/assets/hero_banner_animated.gif" width="100%" alt="Deepak Kumar KC - Data Engineer Banner"/>
 </p>
 
+<!-- Live Interactive Next.js Portfolio Web App CTA -->
+<p align="center">
+  <a href="http://localhost:3000" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_LAUNCH_LIVE_NEXT.JS_PORTFOLIO_WEBSITE-00F0FF?style=for-the-badge&logo=nextdotjs&logoColor=black" alt="Launch Live Portfolio Web App" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Deepakkumarkc/Deepakkumarkc" target="_blank">
+    <img src="https://img.shields.io/badge/💻_VIEW_NEXT.JS_SOURCE_CODE-10B981?style=for-the-badge&logo=react&logoColor=white" alt="View Source Code" />
+  </a>
+</p>
+
 ## 🚀 **About Me**
 
 Passionate **Azure Data Engineer** building high-throughput **ETL/ELT data pipelines**, executing **large-scale enterprise database migrations**, and engineering **Medallion Lakehouses** (Bronze/Silver/Gold) on Azure.
