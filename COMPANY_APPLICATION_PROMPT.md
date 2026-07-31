@@ -17,13 +17,11 @@ Here are the details for this application:
 [Paste Job Description text here]
 ```
 
-4. **Modified Resume Text / File**:
-```
-[Paste Modified Resume text or attach file here]
-```
+4. **Modified Resume File**:
+[Attach or link your actual PDF resume file here]
 
 **Please perform the following tasks**:
-1. **Save Resume File**: Save/update the modified resume PDF to `public/resumes/Deepak_Kumar_KC_[CompanyName].pdf`.
+1. **Save Provided Resume File**: Rename and save the provided PDF resume file directly to `public/resumes/Deepak_Kumar_KC_[CompanyName].pdf` (do NOT generate synthetic resume text).
 2. **Create Company Profile Config**: Add a new company configuration in `src/data/companyProfiles.ts` with:
    - Targeted Executive Role matching the JD.
    - Natural Welcome Greeting for the hiring team.
