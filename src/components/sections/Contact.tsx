@@ -42,18 +42,18 @@ export const Contact: React.FC = () => {
   };
 
   return (
-    <section id="contact" className="py-20 relative">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-12">
+    <section id="contact" className="py-14 sm:py-16 relative">
+      <div className="w-full max-w-[1600px] mx-auto px-4 sm:px-6 lg:px-12 space-y-10">
         
         {/* Header */}
-        <div className="text-center space-y-3 max-w-3xl mx-auto">
+        <div className="text-center space-y-2 max-w-4xl mx-auto">
           <span className="text-xs font-mono text-emerald-400 uppercase tracking-widest bg-emerald-500/10 px-3 py-1 rounded-full border border-emerald-500/20">
             Get In Touch
           </span>
           <h2 className="text-3xl sm:text-4xl font-bold text-white tracking-tight">
             Let&apos;s Connect & Discuss Opportunities
           </h2>
-          <p className="text-slate-400 text-sm sm:text-base leading-relaxed">
+          <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
             Open for Senior Azure Data Engineering, Databricks ETL, and Cloud Architecture roles across U.S., Canada, and international deployments.
           </p>
         </div>
@@ -63,21 +63,21 @@ export const Contact: React.FC = () => {
           
           {/* Left Column: Direct Info Cards */}
           <div className="lg:col-span-5 space-y-6">
-            <Card className="bg-slate-900/90 border-slate-800 space-y-6">
-              <h3 className="text-lg font-bold text-white border-b border-slate-800 pb-3">
+            <Card className="bg-slate-900/90 border-slate-800 space-y-6 p-6 sm:p-8">
+              <h3 className="text-xl font-bold text-white border-b border-slate-800 pb-3">
                 Contact Information
               </h3>
 
-              <div className="space-y-4 text-xs">
+              <div className="space-y-4 text-xs sm:text-sm">
                 <a
                   href={`mailto:${profileData.email}`}
-                  className="flex items-center gap-3.5 p-3.5 rounded-xl bg-slate-950/60 border border-slate-800/80 hover:border-azure-500/40 text-slate-300 hover:text-azure-400 transition-all"
+                  className="flex items-center gap-4 p-4 rounded-xl bg-slate-950/70 border border-slate-800/80 hover:border-azure-500/40 text-slate-300 hover:text-azure-400 transition-all"
                 >
-                  <div className="w-9 h-9 rounded-lg bg-azure-500/10 flex items-center justify-center text-azure-400 shrink-0">
-                    <Mail className="w-4 h-4" />
+                  <div className="w-10 h-10 rounded-xl bg-azure-500/10 flex items-center justify-center text-azure-400 shrink-0">
+                    <Mail className="w-5 h-5" />
                   </div>
                   <div>
-                    <span className="block text-[10px] font-mono text-slate-500 uppercase">Direct Email</span>
+                    <span className="block text-xs font-mono text-slate-500 uppercase">Direct Email</span>
                     <span className="font-semibold text-white">{profileData.email}</span>
                   </div>
                 </a>
@@ -86,13 +86,13 @@ export const Contact: React.FC = () => {
                   href={profileData.linkedinUrl}
                   target="_blank"
                   rel="noreferrer"
-                  className="flex items-center gap-3.5 p-3.5 rounded-xl bg-slate-950/60 border border-slate-800/80 hover:border-azure-500/40 text-slate-300 hover:text-azure-400 transition-all"
+                  className="flex items-center gap-4 p-4 rounded-xl bg-slate-950/70 border border-slate-800/80 hover:border-azure-500/40 text-slate-300 hover:text-azure-400 transition-all"
                 >
-                  <div className="w-9 h-9 rounded-lg bg-blue-600/10 flex items-center justify-center text-blue-400 shrink-0">
-                    <Linkedin className="w-4 h-4" />
+                  <div className="w-10 h-10 rounded-xl bg-blue-600/10 flex items-center justify-center text-blue-400 shrink-0">
+                    <Linkedin className="w-5 h-5" />
                   </div>
                   <div>
-                    <span className="block text-[10px] font-mono text-slate-500 uppercase">LinkedIn Profile</span>
+                    <span className="block text-xs font-mono text-slate-500 uppercase">LinkedIn Profile</span>
                     <span className="font-semibold text-white">Deepak Kumar KC</span>
                   </div>
                 </a>
@@ -101,23 +101,23 @@ export const Contact: React.FC = () => {
                   href={profileData.githubUrl}
                   target="_blank"
                   rel="noreferrer"
-                  className="flex items-center gap-3.5 p-3.5 rounded-xl bg-slate-950/60 border border-slate-800/80 hover:border-azure-500/40 text-slate-300 hover:text-azure-400 transition-all"
+                  className="flex items-center gap-4 p-4 rounded-xl bg-slate-950/70 border border-slate-800/80 hover:border-azure-500/40 text-slate-300 hover:text-azure-400 transition-all"
                 >
-                  <div className="w-9 h-9 rounded-lg bg-slate-800 flex items-center justify-center text-slate-200 shrink-0">
-                    <Github className="w-4 h-4" />
+                  <div className="w-10 h-10 rounded-xl bg-slate-800 flex items-center justify-center text-slate-200 shrink-0">
+                    <Github className="w-5 h-5" />
                   </div>
                   <div>
-                    <span className="block text-[10px] font-mono text-slate-500 uppercase">GitHub Account</span>
+                    <span className="block text-xs font-mono text-slate-500 uppercase">GitHub Account</span>
                     <span className="font-semibold text-white">@Deepakkumarkc</span>
                   </div>
                 </a>
 
-                <div className="flex items-center gap-3.5 p-3.5 rounded-xl bg-slate-950/60 border border-slate-800/80 text-slate-300">
-                  <div className="w-9 h-9 rounded-lg bg-emerald-500/10 flex items-center justify-center text-emerald-400 shrink-0">
-                    <MapPin className="w-4 h-4" />
+                <div className="flex items-center gap-4 p-4 rounded-xl bg-slate-950/70 border border-slate-800/80 text-slate-300">
+                  <div className="w-10 h-10 rounded-xl bg-emerald-500/10 flex items-center justify-center text-emerald-400 shrink-0">
+                    <MapPin className="w-5 h-5" />
                   </div>
                   <div>
-                    <span className="block text-[10px] font-mono text-slate-500 uppercase">Location</span>
+                    <span className="block text-xs font-mono text-slate-500 uppercase">Location</span>
                     <span className="font-semibold text-white">{profileData.location}</span>
                   </div>
                 </div>
@@ -128,16 +128,16 @@ export const Contact: React.FC = () => {
 
           {/* Right Column: Contact Form */}
           <div className="lg:col-span-7">
-            <Card className="bg-slate-900/90 border-slate-800 space-y-6">
-              <h3 className="text-lg font-bold text-white border-b border-slate-800 pb-3">
+            <Card className="bg-slate-900/90 border-slate-800 space-y-6 p-6 sm:p-8">
+              <h3 className="text-xl font-bold text-white border-b border-slate-800 pb-3">
                 Send a Direct Message
               </h3>
 
               {status === "success" ? (
-                <div className="p-6 rounded-xl bg-emerald-500/10 border border-emerald-500/30 text-center space-y-3">
-                  <CheckCircle2 className="w-10 h-10 text-emerald-400 mx-auto" />
-                  <h4 className="text-base font-bold text-white">Message Sent Successfully!</h4>
-                  <p className="text-xs text-slate-300">
+                <div className="p-8 rounded-xl bg-emerald-500/10 border border-emerald-500/30 text-center space-y-4">
+                  <CheckCircle2 className="w-12 h-12 text-emerald-400 mx-auto" />
+                  <h4 className="text-lg font-bold text-white">Message Sent Successfully!</h4>
+                  <p className="text-xs sm:text-sm text-slate-300">
                     Thank you for reaching out. I will review your message and respond to your email promptly.
                   </p>
                   <Button onClick={() => setStatus("idle")} variant="outline" size="sm">
@@ -145,9 +145,9 @@ export const Contact: React.FC = () => {
                   </Button>
                 </div>
               ) : (
-                <form onSubmit={handleSubmit} className="space-y-4 text-xs">
+                <form onSubmit={handleSubmit} className="space-y-4 text-xs sm:text-sm">
                   {status === "error" && (
-                    <div className="p-3 rounded-lg bg-rose-500/10 border border-rose-500/30 text-rose-300 flex items-center gap-2">
+                    <div className="p-3.5 rounded-lg bg-rose-500/10 border border-rose-500/30 text-rose-300 flex items-center gap-2">
                       <AlertCircle className="w-4 h-4 shrink-0" />
                       <span>{errorMessage}</span>
                     </div>
@@ -165,7 +165,7 @@ export const Contact: React.FC = () => {
                       value={formData.name}
                       onChange={handleChange}
                       placeholder="e.g. Sarah Jenkins (Recruiter / Hiring Lead)"
-                      className="w-full px-3.5 py-2.5 rounded-lg bg-slate-950 border border-slate-800 text-white placeholder-slate-500 focus:outline-none focus:border-azure-500 transition-colors"
+                      className="w-full px-4 py-3 rounded-xl bg-slate-950 border border-slate-800 text-white placeholder-slate-500 focus:outline-none focus:border-azure-500 transition-colors"
                     />
                   </div>
 
@@ -181,7 +181,7 @@ export const Contact: React.FC = () => {
                       value={formData.email}
                       onChange={handleChange}
                       placeholder="e.g. sarah.jenkins@company.com"
-                      className="w-full px-3.5 py-2.5 rounded-lg bg-slate-950 border border-slate-800 text-white placeholder-slate-500 focus:outline-none focus:border-azure-500 transition-colors"
+                      className="w-full px-4 py-3 rounded-xl bg-slate-950 border border-slate-800 text-white placeholder-slate-500 focus:outline-none focus:border-azure-500 transition-colors"
                     />
                   </div>
 
@@ -197,14 +197,14 @@ export const Contact: React.FC = () => {
                       value={formData.message}
                       onChange={handleChange}
                       placeholder="Hello Deepak, we would love to discuss a Senior Data Engineering role for our Azure cloud team..."
-                      className="w-full px-3.5 py-2.5 rounded-lg bg-slate-950 border border-slate-800 text-white placeholder-slate-500 focus:outline-none focus:border-azure-500 transition-colors resize-none"
+                      className="w-full px-4 py-3 rounded-xl bg-slate-950 border border-slate-800 text-white placeholder-slate-500 focus:outline-none focus:border-azure-500 transition-colors resize-none"
                     ></textarea>
                   </div>
 
                   <Button
                     type="submit"
                     variant="primary"
-                    className="w-full"
+                    className="w-full py-3"
                     disabled={status === "loading"}
                   >
                     {status === "loading" ? "Submitting Message..." : "Send Message"} <Send className="w-4 h-4" />
