@@ -1,68 +1,62 @@
-<!-- Header Banner -->
+<!-- Hero Banner with Integrated Headshot & Dynamic Roles -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Deepakkumarkc/Deepakkumarkc/main/assets/creation_of_projects.gif" width="100%" alt="Creation of Projects Banner Animation"/>
+  <img src="https://raw.githubusercontent.com/Deepakkumarkc/Deepakkumarkc/main/assets/hero_banner_animated.gif" width="100%" alt="Deepak Kumar KC - Data Engineer Banner"/>
 </p>
 
-
-<!-- Name & Dynamic Typing Subtitle -->
-<h1 align="center">👋 Hi, I'm <span style="color:#4DA1FF">Deepak Kumar KC</span></h1>
-
-<p align="center">
-  <a href="https://github.com/Deepakkumarkc">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4DA1FF&center=true&vCenter=true&width=650&lines=Azure+Data+Engineer;Databricks+%26+PySpark+Specialist;ETL%2FELT+Pipeline+Architect;SQL+%26+PL%2FSQL+Tuning+Expert;Building+Scalable+Medallion+Lakehouses" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- Key Stats / Impact Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Scale-800GB%2B-239120?style=for-the-badge&logo=database&logoColor=white" />
-  <img src="https://img.shields.io/badge/Award-Star%20Performance%202023-FFD700?style=for-the-badge&logo=trophy&logoColor=black" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-## 🚀 **About Me**
-
-Passionate **Data Engineer** with **4+ years of experience** designing, building, and optimizing scalable **ETL/ELT pipelines**, enterprise **data migration workflows**, and high-performance **SQL & PL/SQL** database architectures across large-scale datasets (**800GB+**).
-
-I specialize in **Azure-centric Data Engineering**, leveraging **Azure Data Factory (ADF)**, **Azure Databricks (PySpark)**, **Delta Lake (Medallion Architecture)**, and **Azure DevOps CI/CD** to transform raw data into enterprise-ready data products.
-
-> 💡 *Focused on clean data models, robust pipeline resilience, sub-second query performance, and continuous integration.*
-
----
-
-## ⚡ **Core Engineering Capabilities**
-
-<table>
+<!-- Executive Spotlight Card -->
+<table align="center" width="100%">
   <tr>
-    <td width="50%">
-      <h3>🏗️ Lakehouse & Medallion Architecture</h3>
-      <p>Architecting multi-layered data lakes (Bronze/Silver/Gold) using <b>Azure Databricks</b> and <b>Delta Lake</b> to ensure data governance, ACID transactions, and schema enforcement.</p>
+    <td width="28%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Deepakkumarkc/Deepakkumarkc/main/assets/deepak_avatar_glow.png" width="180" alt="Deepak Kumar KC Headshot"/>
     </td>
-    <td width="50%">
-      <h3>🔄 ETL / ELT Pipeline Orchestration</h3>
-      <p>Building resilient, event-driven pipelines in <b>Azure Data Factory (ADF)</b>, hybrid SSIS integration, and automated monitoring & alert systems.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>⚡ Distributed Data Processing</h3>
-      <p>Developing high-throughput batch and stream processing jobs using <b>PySpark</b>, optimizing partition strategies and memory management for large payloads.</p>
-    </td>
-    <td width="50%">
-      <h3>🎯 SQL & PL/SQL Query Tuning</h3>
-      <p>Expert performance tuning across <b>SQL Server</b> and <b>Oracle PL/SQL</b>, optimizing execution plans, indexing strategies, and refactoring complex queries.</p>
+    <td width="72%" valign="middle">
+      <h2>👋 Hi, I'm <span style="color:#00F0FF">Deepak Kumar KC</span></h2>
+      <h3>☁️ Azure Data Engineer | Databricks & PySpark Specialist | ETL Architect</h3>
+      <p>
+        Passionate <b>Data Engineer</b> with <b>4+ years of experience</b> architecting high-throughput <b>ETL/ELT data pipelines</b>, executing <b>800GB+ enterprise migrations</b>, and engineering <b>Medallion Lakehouses</b> (Bronze/Silver/Gold) on Azure.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Experience-4%2B%20Years-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+        <img src="https://img.shields.io/badge/Data%20Scale-800GB%2B-10B981?style=for-the-badge&logo=database&logoColor=white" />
+        <img src="https://img.shields.io/badge/Award-Star%20Performance%202023-FFD700?style=for-the-badge&logo=trophy&logoColor=black" />
+        <img src="https://img.shields.io/badge/Status-Available%20for%20Roles-00E676?style=for-the-badge&logo=github&logoColor=white" />
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ **Skills & Technologies**
+## ⚡ **Core Engineering Competencies**
 
-### ☁️ **Cloud Platforms & Data Infrastructure**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏗️ Medallion Lakehouse Architecture</h3>
+      <p>Designing multi-layered data lakes (<b>Bronze/Silver/Gold</b>) using <b>Azure Databricks</b> and <b>Delta Lake</b> for ACID compliance, data quality enforcement, and business intelligence reporting.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔄 Pipeline Orchestration & Hybrid Sync</h3>
+      <p>Architecting resilient, automated pipelines in <b>Azure Data Factory (ADF)</b>, hybrid SSIS integration, and enterprise data replication across cloud and on-premise sources.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Distributed PySpark Processing</h3>
+      <p>Building high-throughput batch and streaming ETL jobs with <b>PySpark</b>, optimizing partition strategies, memory management, and execution graphs for multi-GB analytics.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 SQL & PL/SQL Performance Tuning</h3>
+      <p>Specialist in database query optimization across <b>SQL Server</b> and <b>Oracle PL/SQL</b>, refactoring stored procedures, index strategies, and execution plans (achieving 40%+ speedups).</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ **Technical Toolkit & Ecosystem**
+
+### ☁️ **Cloud Platforms & Data Lakehouse**
 <p>
   <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
@@ -80,7 +74,7 @@ I specialize in **Azure-centric Data Engineering**, leveraging **Azure Data Fact
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### 🔁 **Data Engineering & Analytics**
+### 🔁 **Data Engineering & BI Tools**
 <p>
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
   <img src="https://img.shields.io/badge/SSIS-3178C6?style=for-the-badge&logo=microsoft&logoColor=white"/>
@@ -102,16 +96,16 @@ I specialize in **Azure-centric Data Engineering**, leveraging **Azure Data Fact
 ## ⚙️ **Tech Stack Visual Overview**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,py,git,github,linux,powershell,postgres,mysql,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=azure,py,postgres,mysql,git,github,linux,powershell,vscode,docker" />
 </p>
 
 ---
 
-## 🏆 **Key Highlights & Achievements**
+## 🏆 **Key Accomplishments & Impact**
 
-- 🥇 **Star Performance Award (2023)** – Recognized for excellence in delivering business-critical data pipeline optimizations.
-- 📦 **Data Migration Mastery** – Successfully led the end-to-end migration and validation of **800GB+ enterprise databases** to cloud environments with zero data loss.
-- ⚡ **Query Optimization Champion** – Reduced complex SQL/PL/SQL batch job runtimes by over **40%** through refactoring, partitioning, and execution plan tuning.
+- 🥇 **Star Performance Award (2023)** – Honored for outstanding technical contribution in optimizing business-critical data pipelines.
+- 📦 **800GB+ Data Migration** – Successfully led the migration, validation, and zero-downtime cutover of large-scale enterprise databases.
+- ⚡ **40%+ Performance Acceleration** – Refactored legacy stored procedures, partitioning, and indexing strategies to cut batch execution windows by 40%+.
 
 ---
 
