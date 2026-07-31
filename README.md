@@ -97,18 +97,20 @@ I specialize in **Azure Data Factory (ADF)**, **Azure Databricks (PySpark)**, **
 
 ## 📊 **GitHub Analytics & Activity**
 
+<!-- Live Snake Contribution Grid Animation -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deepakkumarkc&theme=tokyonight" height="180" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deepakkumarkc&theme=tokyonight" height="180" alt="Repos per Language"/>
+  <img src="https://raw.githubusercontent.com/Deepakkumarkc/Deepakkumarkc/main/assets/github_contribution_snake.gif" width="100%" alt="GitHub Contribution Snake Animation"/>
 </p>
 
+<!-- Electric Neon Stats Cards -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deepakkumarkc&theme=tokyonight" height="180" alt="Most Commit Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepakkumarkc&theme=tokyonight" width="700" alt="Profile Details"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Deepakkumarkc&show_icons=true&theme=radical&border_color=00F0FF&title_color=00F0FF&icon_color=00F0FF&bg_color=0D1117" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Deepakkumarkc&layout=compact&theme=radical&border_color=00F0FF&title_color=00F0FF&bg_color=0D1117" height="180" alt="Top Languages"/>
 </p>
 
+<!-- Dynamic Glowing Area Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepakkumarkc&theme=tokyo-night" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepakkumarkc&theme=react-dark&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 </p>
 
 ---
