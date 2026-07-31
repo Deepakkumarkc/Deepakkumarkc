@@ -5,7 +5,7 @@
 
 ## 🚀 **About Me**
 
-Passionate **Azure Data Engineer** with **4+ years of experience** building high-throughput **ETL/ELT data pipelines**, executing **800GB+ enterprise database migrations**, and engineering **Medallion Lakehouses** (Bronze/Silver/Gold) on Azure.
+Passionate **Azure Data Engineer** building high-throughput **ETL/ELT data pipelines**, executing **large-scale enterprise database migrations**, and engineering **Medallion Lakehouses** (Bronze/Silver/Gold) on Azure.
 
 I specialize in **Azure Data Factory (ADF)**, **Azure Databricks (PySpark)**, **Delta Lake**, and **Azure DevOps CI/CD** to transform raw data into enterprise-ready data products.
 
@@ -33,7 +33,7 @@ I specialize in **Azure Data Factory (ADF)**, **Azure Databricks (PySpark)**, **
     </td>
     <td width="50%" valign="top">
       <h3>🎯 SQL & PL/SQL Performance Tuning</h3>
-      <p>Specialist in database query optimization across <b>SQL Server</b> and <b>Oracle PL/SQL</b>, refactoring stored procedures, index strategies, and execution plans (achieving 40%+ speedups).</p>
+      <p>Specialist in database query optimization across <b>SQL Server</b> and <b>Oracle PL/SQL</b>, refactoring stored procedures, index strategies, and execution plans.</p>
     </td>
   </tr>
 </table>
@@ -89,28 +89,28 @@ I specialize in **Azure Data Factory (ADF)**, **Azure Databricks (PySpark)**, **
 
 ## 🏆 **Key Accomplishments & Impact**
 
-- 🥇 **Star Performance Award (2023)** – Honored for outstanding technical contribution in optimizing business-critical data pipelines.
-- 📦 **800GB+ Data Migration** – Successfully led the migration, validation, and zero-downtime cutover of large-scale enterprise databases.
-- ⚡ **40%+ Performance Acceleration** – Refactored legacy stored procedures, partitioning, and indexing strategies to cut batch execution windows by 40%+.
+- 🥇 **Star Performance Award** – Honored for outstanding technical contribution in optimizing business-critical data pipelines.
+- 📦 **Enterprise Data Migration** – Successfully led the migration, validation, and zero-downtime cutover of large-scale enterprise databases.
+- ⚡ **Performance Acceleration** – Refactored legacy stored procedures, partitioning, and indexing strategies to cut batch execution windows.
 
 ---
 
-## 📊 **GitHub Analytics & Activity**
+## 📊 **Live Dynamic GitHub Analytics**
 
-<!-- Live Snake Contribution Grid Animation -->
+<!-- Auto-Updating Dynamic Snake Contribution Grid -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Deepakkumarkc/Deepakkumarkc/main/assets/github_contribution_snake.gif" width="100%" alt="GitHub Contribution Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/Deepakkumarkc/Deepakkumarkc/main/assets/github_contribution_snake.svg" width="100%" alt="Auto-Updating Live Contribution Snake"/>
 </p>
 
-<!-- Electric Neon Stats Cards -->
+<!-- Live Real-Time Stats Cards -->
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Deepakkumarkc&show_icons=true&theme=radical&border_color=00F0FF&title_color=00F0FF&icon_color=00F0FF&bg_color=0D1117&include_all_commits=true&hide_rank=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Deepakkumarkc&layout=compact&theme=radical&border_color=00F0FF&title_color=00F0FF&bg_color=0D1117" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Deepakkumarkc&show_icons=true&theme=radical&border_color=00F0FF&title_color=00F0FF&icon_color=00F0FF&bg_color=0D1117&include_all_commits=true&hide_rank=true" height="180" alt="Live GitHub Stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Deepakkumarkc&layout=compact&theme=radical&border_color=00F0FF&title_color=00F0FF&bg_color=0D1117" height="180" alt="Live Top Languages"/>
 </p>
 
-<!-- Dynamic Glowing Area Activity Graph -->
+<!-- Dynamic Real-Time Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepakkumarkc&theme=react-dark&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepakkumarkc&theme=react-dark&area=true&hide_border=true" width="100%" alt="Live Activity Graph"/>
 </p>
 
 ---
