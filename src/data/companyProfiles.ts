@@ -1,6 +1,22 @@
 import { CompanyCustomization } from "@/types/portfolio";
 
 export const companyProfilesRegistry: Record<string, CompanyCustomization> = {
+  cognizant: {
+    companySlug: "cognizant",
+    companyName: "Cognizant",
+    targetRole: "Data Integration & ETL Developer | SQL & Pipeline Performance Lead",
+    customGreeting: "Deepak Kumar KC — Data Integration & ETL Developer Profile",
+    customSummary: "Experienced Data Developer with 4+ years of hands-on experience designing, building, and optimizing scalable SQL data integration workflows, ETL/ELT pipelines, and data quality validation frameworks. Proven track record executing 800GB+ legacy dataset migrations, query performance tuning, and incident resolution for enterprise platforms.",
+    tailoredHighlights: [
+      "Expertise writing & tuning complex SQL, stored procedures, aggregations, and execution plans for 800GB+ datasets",
+      "Designed robust ETL/ELT integration workflows, data quality validation routines, and reconciliation processes",
+      "Pioneered enterprise data processing framework standardizing logging, error handling, and debugging across 5+ client deployments",
+      "Azure DP-900 & AZ-900 Certified with strong background in day-shift job monitoring and root cause remediation"
+    ],
+    focusedSkills: ["SQL Data Integration", "Talend & ADF ETL", "T-SQL / PL-SQL Tuning", "Data Quality & Validation", "Data Migration", "CI/CD Deployment"],
+    customResumePdfUrl: "/resumes/Deepak_Kumar_KC_Cognizant.pdf",
+    welcomeNote: "Welcome Cognizant Engineering & Talent Acquisition Team! Explore my specialized experience in SQL data integration, ETL optimization, and pipeline stability."
+  },
   tcs: {
     companySlug: "tcs",
     companyName: "Tata Consultancy Services (TCS)",
