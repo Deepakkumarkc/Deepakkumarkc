@@ -21,23 +21,35 @@ export const Contact: React.FC = () => {
     setErrorMessage("");
 
     try {
-      const res = await fetch("/api/contact", {
+      // Send directly from Client browser to Web3Forms API (Free plan requirement)
+      const res = await fetch("https://api.web3forms.com/submit", {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(formData),
+        headers: {
+          "Content-Type": "application/json",
+          Accept: "application/json",
+        },
+        body: JSON.stringify({
+          access_key: "00ab4c69-7f4d-434b-9024-4fd9ac80fa04",
+          name: formData.name,
+          email: formData.email,
+          message: formData.message,
+          subject: `New Lead from Portfolio: ${formData.name}`,
+          from_name: `${formData.name} (Portfolio Contact Form)`,
+        }),
       });
 
       const data = await res.json();
-      if (res.ok) {
+      if (res.ok && data.success) {
         setStatus("success");
         setFormData({ name: "", email: "", message: "" });
       } else {
         setStatus("error");
-        setErrorMessage(data.error || "Failed to submit message.");
+        setErrorMessage(data.message || "Failed to submit message. Please try again.");
       }
     } catch (err) {
+      console.error("Client-side Web3Forms submission error:", err);
       setStatus("error");
-      setErrorMessage("Network error. Please try sending an email directly.");
+      setErrorMessage("Network error. Please click 'Or Open Email App' to send an email directly.");
     }
   };
 
