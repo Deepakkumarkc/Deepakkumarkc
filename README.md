@@ -97,6 +97,11 @@ I specialize in **Azure Data Factory (ADF)**, **Azure Databricks (PySpark)**, **
 
 ## 📊 **Live Dynamic GitHub Analytics**
 
+<!-- Auto-Updating Real-Time GitHub Contribution Grid Heatmap -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Deepakkumarkc/Deepakkumarkc/main/assets/github_contribution_snake.svg" width="100%" alt="Real-Time Auto-Updating Contribution Heatmap Grid"/>
+</p>
+
 <!-- Dynamic Real-Time Activity Wave Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepakkumarkc&theme=react-dark&area=true&hide_border=true" width="100%" alt="Live Activity Wave Graph"/>
