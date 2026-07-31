@@ -20,41 +20,41 @@ export async function POST(request: Request) {
       );
     }
 
-    // Forward form data to Web3Forms free service targeting Deepak's email
-    const web3formsAccessKey = process.env.WEB3FORMS_ACCESS_KEY;
+    // Web3Forms direct email delivery to parkadheananth1998@gmail.com
+    const web3formsAccessKey = process.env.WEB3FORMS_ACCESS_KEY || "00ab4c69-7f4d-434b-9024-4fd9ac80fa04";
 
-    if (web3formsAccessKey) {
-      const response = await fetch("https://api.web3forms.com/submit", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          Accept: "application/json",
-        },
-        body: JSON.stringify({
-          access_key: web3formsAccessKey,
-          name,
-          email,
-          message,
-          subject: `Portfolio Contact: ${name} reached out`,
-        }),
-      });
+    const response = await fetch("https://api.web3forms.com/submit", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        Accept: "application/json",
+      },
+      body: JSON.stringify({
+        access_key: web3formsAccessKey,
+        name,
+        email,
+        message,
+        subject: `New Lead from Portfolio Website: ${name}`,
+        from_name: `${name} (Portfolio Contact Form)`,
+        replyto: email,
+      }),
+    });
 
-      if (!response.ok) {
-        throw new Error("Failed to send message via Web3Forms.");
-      }
-    } else {
-      // Fallback logging for local development when WEB3FORMS_ACCESS_KEY is not set yet
-      console.log(`[Contact Form Received] From: ${name} (${email}) | Message: ${message}`);
+    const web3Data = await response.json();
+
+    if (!response.ok || !web3Data.success) {
+      console.error("Web3Forms response error:", web3Data);
+      throw new Error(web3Data.message || "Failed to submit message to Web3Forms.");
     }
 
     return NextResponse.json(
       { success: true, message: "Your message has been sent successfully! Deepak will respond to your email." },
       { status: 200 }
     );
-  } catch (error) {
+  } catch (error: any) {
     console.error("Contact route error:", error);
     return NextResponse.json(
-      { error: "Could not send message automatically. You can email parkadheananth1998@gmail.com directly." },
+      { error: "Could not send message automatically. Please email parkadheananth1998@gmail.com directly." },
       { status: 500 }
     );
   }
