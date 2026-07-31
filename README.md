@@ -104,7 +104,7 @@ I specialize in **Azure Data Factory (ADF)**, **Azure Databricks (PySpark)**, **
 
 <!-- Electric Neon Stats Cards -->
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Deepakkumarkc&show_icons=true&theme=radical&border_color=00F0FF&title_color=00F0FF&icon_color=00F0FF&bg_color=0D1117" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Deepakkumarkc&show_icons=true&theme=radical&border_color=00F0FF&title_color=00F0FF&icon_color=00F0FF&bg_color=0D1117&include_all_commits=true&hide_rank=true" height="180" alt="GitHub Stats"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Deepakkumarkc&layout=compact&theme=radical&border_color=00F0FF&title_color=00F0FF&bg_color=0D1117" height="180" alt="Top Languages"/>
 </p>
 
