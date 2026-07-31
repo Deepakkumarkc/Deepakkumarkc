@@ -97,20 +97,15 @@ I specialize in **Azure Data Factory (ADF)**, **Azure Databricks (PySpark)**, **
 
 ## 📊 **Live Dynamic GitHub Analytics**
 
-<!-- Auto-Updating Dynamic Snake Contribution Grid -->
+<!-- Dynamic Real-Time Activity Wave Graph -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Deepakkumarkc/Deepakkumarkc/main/assets/github_contribution_snake.svg" width="100%" alt="Auto-Updating Live Contribution Snake"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepakkumarkc&theme=react-dark&area=true&hide_border=true" width="100%" alt="Live Activity Wave Graph"/>
 </p>
 
 <!-- Live Real-Time Stats Cards -->
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Deepakkumarkc&show_icons=true&theme=radical&border_color=00F0FF&title_color=00F0FF&icon_color=00F0FF&bg_color=0D1117&include_all_commits=true&hide_rank=true" height="180" alt="Live GitHub Stats"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Deepakkumarkc&layout=compact&theme=radical&border_color=00F0FF&title_color=00F0FF&bg_color=0D1117" height="180" alt="Live Top Languages"/>
-</p>
-
-<!-- Dynamic Real-Time Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepakkumarkc&theme=react-dark&area=true&hide_border=true" width="100%" alt="Live Activity Graph"/>
 </p>
 
 ---
