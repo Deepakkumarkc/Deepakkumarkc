@@ -1,7 +1,8 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Deepakkumarkc/Deepakkumarkc/main/assets/Header_Image_Banner.png" width="100%" alt="Data Engineering Header Banner"/>
+  <img src="https://raw.githubusercontent.com/Deepakkumarkc/Deepakkumarkc/main/assets/creation_of_projects.gif" width="100%" alt="Creation of Projects Banner Animation"/>
 </p>
+
 
 <!-- Name & Dynamic Typing Subtitle -->
 <h1 align="center">👋 Hi, I'm <span style="color:#4DA1FF">Deepak Kumar KC</span></h1>
