@@ -21,12 +21,12 @@ Here are the details for this application:
 [Attach or link your actual PDF resume file here]
 
 **Please perform the following tasks**:
-1. **Save Provided Resume File**: Rename and save the provided PDF resume file directly to `public/resumes/Deepak_Kumar_KC_[CompanyName].pdf` (do NOT generate synthetic resume text).
-2. **Create Company Profile Config**: Add a new company configuration in `src/data/companyProfiles.ts` with:
-   - Targeted Executive Role matching the JD.
+1. **Clean Overwrite & Save Resume File**: If a resume file already exists for this company at `public/resumes/Deepak_Kumar_KC_[CompanyName].pdf`, delete it first. Then save the newly provided PDF resume file directly to `public/resumes/Deepak_Kumar_KC_[CompanyName].pdf`.
+2. **Clean Overwrite Company Profile Config**: If an entry for this company already exists in `src/data/companyProfiles.ts`, remove the old entry first. Then create a fresh company configuration with:
+   - Targeted Executive Role matching the new JD.
    - Natural Welcome Greeting for the hiring team.
-   - Customized summary emphasizing the key requirements in the JD.
-   - 4 Key Experience & Competency Alignment Highlights matching the JD.
+   - Customized summary emphasizing the key requirements in the new JD.
+   - 4 Key Experience & Competency Alignment Highlights matching the new JD.
    - Resume download link pointing to `/resumes/Deepak_Kumar_KC_[CompanyName].pdf`.
 3. **Tailor Portfolio Context & Sections**:
    - Re-order and highlight matching skills, frameworks, and tools in the Skills section for this company.
