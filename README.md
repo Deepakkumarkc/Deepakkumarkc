@@ -118,12 +118,13 @@ I specialize in **Azure-centric Data Engineering**, leveraging **Azure Data Fact
 ## 📊 **GitHub Analytics & Activity**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepakkumarkc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepakkumarkc&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deepakkumarkc&theme=tokyonight" height="180" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deepakkumarkc&theme=tokyonight" height="180" alt="Repos per Language"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakkumarkc&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deepakkumarkc&theme=tokyonight" height="180" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepakkumarkc&theme=tokyonight" width="700" alt="Profile Details"/>
 </p>
 
 <p align="center">
@@ -135,27 +136,15 @@ I specialize in **Azure-centric Data Engineering**, leveraging **Azure Data Fact
 ## 🌐 **Connect & Collaborate**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/deepak-kumar-44969123a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Deepak_Kumar_KC-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:parkadheananth1998@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Deepakkumarkc">
-    <img src="https://img.shields.io/badge/GitHub-Deepakkumarkc-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://stackoverflow.com/users/14381274/deepak-ananth">
-    <img src="https://img.shields.io/badge/StackOverflow-Deepak_Ananth-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@Deepakananthkc">
-    <img src="https://img.shields.io/badge/Medium-Deepak_Ananth_KC-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/deepak-kumar-44969123a/"><img src="https://img.shields.io/badge/LinkedIn-Deepak_Kumar_KC-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:parkadheananth1998@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Deepakkumarkc"><img src="https://img.shields.io/badge/GitHub-Deepakkumarkc-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/14381274/deepak-ananth"><img src="https://img.shields.io/badge/StackOverflow-Deepak_Ananth-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+  <a href="https://medium.com/@Deepakananthkc"><img src="https://img.shields.io/badge/Medium-Deepak_Ananth_KC-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Deepakkumarkc/Deepakkumarkc/main/assets/data-footer.gif" width="100%" alt="Footer Banner Animation"/>
-  <br/><br/>
-  <b>💡 Building clean data pipelines, scalable lakehouses, and high-performance cloud architectures.</b>
+  <img src="https://raw.githubusercontent.com/Deepakkumarkc/Deepakkumarkc/main/assets/matrix_footer.gif" width="100%" alt="Matrix Footer Animation"/>
 </p>
