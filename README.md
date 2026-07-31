@@ -3,27 +3,13 @@
   <img src="https://raw.githubusercontent.com/Deepakkumarkc/Deepakkumarkc/main/assets/hero_banner_animated.gif" width="100%" alt="Deepak Kumar KC - Data Engineer Banner"/>
 </p>
 
-<!-- Executive Spotlight Card -->
-<table align="center" width="100%">
-  <tr>
-    <td width="28%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Deepakkumarkc/Deepakkumarkc/main/assets/deepak_avatar_glow.png" width="180" alt="Deepak Kumar KC Headshot"/>
-    </td>
-    <td width="72%" valign="middle">
-      <h2>👋 Hi, I'm <span style="color:#00F0FF">Deepak Kumar KC</span></h2>
-      <h3>☁️ Azure Data Engineer | Databricks & PySpark Specialist | ETL Architect</h3>
-      <p>
-        Passionate <b>Data Engineer</b> with <b>4+ years of experience</b> architecting high-throughput <b>ETL/ELT data pipelines</b>, executing <b>800GB+ enterprise migrations</b>, and engineering <b>Medallion Lakehouses</b> (Bronze/Silver/Gold) on Azure.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Experience-4%2B%20Years-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-        <img src="https://img.shields.io/badge/Data%20Scale-800GB%2B-10B981?style=for-the-badge&logo=database&logoColor=white" />
-        <img src="https://img.shields.io/badge/Award-Star%20Performance%202023-FFD700?style=for-the-badge&logo=trophy&logoColor=black" />
-        <img src="https://img.shields.io/badge/Status-Available%20for%20Roles-00E676?style=for-the-badge&logo=github&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+## 🚀 **About Me**
+
+Passionate **Azure Data Engineer** with **4+ years of experience** building high-throughput **ETL/ELT data pipelines**, executing **800GB+ enterprise database migrations**, and engineering **Medallion Lakehouses** (Bronze/Silver/Gold) on Azure.
+
+I specialize in **Azure Data Factory (ADF)**, **Azure Databricks (PySpark)**, **Delta Lake**, and **Azure DevOps CI/CD** to transform raw data into enterprise-ready data products.
+
+> 💡 *Focused on clean data models, robust pipeline resilience, sub-second query performance, and continuous integration.*
 
 ---
 
