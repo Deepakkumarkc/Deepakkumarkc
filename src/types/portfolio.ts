@@ -95,3 +95,15 @@ export interface Education {
   period: string;
   location: string;
 }
+
+export interface CompanyCustomization {
+  companySlug: string;
+  companyName: string;
+  targetRole: string;
+  customGreeting: string;
+  customSummary: string;
+  tailoredHighlights: string[];
+  focusedSkills: string[];
+  customResumePdfUrl: string;
+  welcomeNote: string;
+}
