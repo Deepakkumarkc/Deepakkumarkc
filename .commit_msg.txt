@@ -1,0 +1,12 @@
+feat: sync portfolio and README with master resume 2026-08-23
+
+Key changes:
+- profile.ts: updated title, tagline, bio, resumeUrl with resume facts
+- skills.ts: added Synapse Analytics, Microsoft Fabric, Delta Lake
+- experience.ts: ASKDRB as Canada On-Site, added missing pipeline contribution
+- certifications.ts: corrected cert title and award description
+- Hero.tsx: added Download Resume CTA, On-Site Canada badge, 4-metric grid
+- About.tsx: added Synapse/Fabric to subtitle and pillar description
+- layout.tsx: fixed metadataBase and OG URL to deepakkumarkc.vercel.app
+- README.md: fixed localhost link, updated About Me, competencies, accomplishments
+- Added master resume PDF to public/resumes/

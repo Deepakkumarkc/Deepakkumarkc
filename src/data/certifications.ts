@@ -33,9 +33,9 @@ export const achievements: Achievement[] = [
   {
     id: "star-award-2023",
     title: "Star Performance Award",
-    date: "September 23, 2023",
+    date: "10/23/2023",
     organization: "Sagitec Solutions",
-    description: "Received the Star Performance Award for exceptional contributions in managing simultaneous roles within the PBAS application. Successfully led the data conversion and sync-up process while providing valuable assistance to the testing team, showcasing strong multitasking abilities and dedication to achieving project goals."
+    description: "Received the Star Performance Award on October 23, 2023, for exceptional contributions in managing simultaneous roles within the PBAS application. Successfully led the data conversion and sync-up process while providing valuable assistance to the testing team, showcasing strong multitasking abilities and dedication to achieving project goals."
   }
 ];
 

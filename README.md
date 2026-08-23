@@ -16,9 +16,9 @@
 
 ## 🚀 **About Me**
 
-**Data Engineer** with **4+ years of experience** building **ETL/ELT pipelines**, **Data Warehouses**, and **large-scale data migration projects** for U.S. and Canadian public sector clients — including an **on-site engagement in Canada**.
+**Engineer - Data (Azure Data Engineering)** with **4+ years of experience** building **ETL/ELT pipelines**, **Data Warehouses**, and **large-scale data migration projects** for U.S. and Canadian public sector clients — including an **on-site engagement in Canada**.
 
-Hands-on with **Azure Databricks**, **Azure Data Factory (ADF)**, **PySpark**, **T-SQL**, and **Oracle PL/SQL**. Led an **800GB+ pension data migration across 100+ tables** with zero critical data loss. Designed a **reusable data-processing framework** now standardised across **five client projects**. Extended expertise into lakehouse architecture with **Delta Lake**, **ADLS Gen2**, **Azure Synapse Analytics**, and **Microsoft Fabric / OneLake**. **Microsoft Azure DP-900 & AZ-900 certified**.
+Hands-on experience with **Azure Databricks**, **Azure Data Factory (ADF)**, **PySpark**, **T-SQL**, and **Oracle PL/SQL**, including **800GB+ pension data migration across 100+ tables** with zero critical data loss. Developed a **reusable data-processing framework** now used across **five client projects**. Extended expertise to lakehouse architecture with **Delta Lake**, **ADLS Gen2**, **Azure Synapse Analytics**, and **Microsoft Fabric / OneLake**. **Microsoft Azure DP-900 & AZ-900 certified**.
 
 > 💡 *Focused on clean data models, robust pipeline resilience, sub-second query performance, and continuous integration across public sector cloud data platforms.*
 
@@ -54,7 +54,7 @@ Hands-on with **Azure Databricks**, **Azure Data Factory (ADF)**, **PySpark**, *
     </td>
     <td width="50%" valign="top">
       <h3>🤖 Agentic AI & Automation R&D</h3>
-      <p>Pioneering <b>Python automation scripts</b> and <b>AI-assisted data pipelines</b> that leverage legacy data-mapping artefacts to accelerate U.S. and Canadian pension workflow development — reducing manual engineering effort.</p>
+      <p>Pioneering <b>Python automation scripts</b> and <b>AI-assisted data pipelines</b> that leverage legacy data-mapping documents and data-modelling artefacts to accelerate U.S. and Canadian pension workflow development.</p>
     </td>
   </tr>
 </table>
@@ -110,11 +110,11 @@ Hands-on with **Azure Databricks**, **Azure Data Factory (ADF)**, **PySpark**, *
 
 ## 🏆 **Key Accomplishments & Impact**
 
-- 🥇 **Star Performance Award (September 2023)** — Received from Sagitec Solutions for exceptional contributions managing simultaneous roles within the PBAS application, leading data conversion and sync-up operations with zero downtime.
+- 🥇 **Star Performance Award (October 23, 2023)** — Received from Sagitec Solutions for exceptional contributions managing simultaneous roles within the PBAS application, leading data conversion and sync-up operations while assisting the testing team.
 - 📦 **800GB+ Enterprise Data Migration** — Led zero-critical-data-loss migration of 800GB+ pension datasets across 100+ tables for the Alaska Division of Retirement and Benefits (ASKDRB), with on-site stakeholder engagement in Canada.
 - 🔧 **Reusable Data Framework** — Designed and maintained a reusable data-processing framework standardising logging, error handling, and debugging — now used across 5 enterprise client projects (PBAS, HEB, ASKDRB, TCRS, MainePRS).
 - ⚡ **SQL Performance Tuning** — Tuned PL/SQL and T-SQL stored procedures, functions, and views for data volumes up to 800GB, cutting execution time on critical reports.
-- 🤖 **AI R&D Pioneer** — Contributing to an Agentic AI initiative leveraging legacy data-mapping documents to automate pension workflow generation, reducing manual engineering effort across U.S. and Canadian deployments.
+- 🤖 **AI R&D Pioneer** — Contributing to an Agentic AI initiative leveraging legacy data-mapping documents and data-modelling artefacts to automate pension workflow generation across U.S. and Canadian deployments.
 - ☁️ **Microsoft Azure Certified** — DP-900 (Azure Data Fundamentals) & AZ-900 (Azure Fundamentals).
 
 ---

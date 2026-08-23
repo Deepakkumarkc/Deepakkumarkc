@@ -2,12 +2,25 @@ import { SkillCategory } from "@/types/portfolio";
 
 export const skillCategories: SkillCategory[] = [
   {
-    title: "Cloud & Data Platforms",
+    title: "Programming & Scripting",
+    icon: "Code",
+    skills: [
+      { name: "Python", isPrimary: true },
+      { name: "PySpark", isPrimary: true },
+      { name: "SQL (T-SQL, PL/SQL)", isPrimary: true },
+      { name: "C#", isPrimary: true },
+      { name: "Shell Scripting", isPrimary: false },
+      { name: "PHP", isPrimary: false }
+    ]
+  },
+  {
+    title: "Azure & Cloud Ecosystem",
     icon: "Cloud",
     skills: [
       { name: "Azure Databricks", isPrimary: true },
       { name: "Azure Data Factory (ADF)", isPrimary: true },
-      { name: "Azure ADLS Gen2 / Blob Storage", isPrimary: true },
+      { name: "Azure Data Lake Storage Gen2 (ADLS Gen2)", isPrimary: true },
+      { name: "Azure Blob Storage", isPrimary: true },
       { name: "Azure SQL Database", isPrimary: true },
       { name: "Azure Synapse Analytics", isPrimary: true },
       { name: "Microsoft Fabric / OneLake", isPrimary: true },
@@ -15,62 +28,50 @@ export const skillCategories: SkillCategory[] = [
     ]
   },
   {
-    title: "Big Data & Pipeline Processing",
+    title: "Data Engineering Architecture",
     icon: "Workflow",
     skills: [
-      { name: "PySpark", isPrimary: true },
-      { name: "Apache Spark", isPrimary: false },
-      { name: "Delta Lake", isPrimary: true },
       { name: "ETL / ELT Pipeline Design", isPrimary: true },
       { name: "Medallion Architecture (Bronze/Silver/Gold)", isPrimary: true },
+      { name: "Delta Lake", isPrimary: true },
       { name: "Batch & Incremental Processing", isPrimary: true },
-      { name: "SSIS Package Development", isPrimary: false }
+      { name: "Large-Scale Data Migration (800GB+)", isPrimary: true },
+      { name: "Data Modeling", isPrimary: true },
+      { name: "Data Warehouse & Data Mart Design", isPrimary: true },
+      { name: "SSIS", isPrimary: false }
     ]
   },
   {
-    title: "Databases & SQL Performance",
+    title: "Databases & Query Optimization",
     icon: "Database",
     skills: [
-      { name: "Microsoft SQL Server (T-SQL)", isPrimary: true },
+      { name: "Microsoft SQL Server", isPrimary: true },
       { name: "Oracle PL/SQL", isPrimary: true },
-      { name: "Stored Procedures & Query Optimization", isPrimary: true },
-      { name: "Performance Tuning", isPrimary: true },
-      { name: "Azure SQL Database", isPrimary: false }
+      { name: "Azure SQL Database", isPrimary: true },
+      { name: "Stored Procedures", isPrimary: true },
+      { name: "Query Optimization", isPrimary: true },
+      { name: "Performance Tuning", isPrimary: true }
     ]
   },
   {
-    title: "Data Engineering & Modeling",
-    icon: "BarChart3",
-    skills: [
-      { name: "Data Warehouse & Data Mart Design", isPrimary: true },
-      { name: "Data Migration & Conversion", isPrimary: true },
-      { name: "Dimensional Data Modeling", isPrimary: true },
-      { name: "Data Quality & Validation Frameworks", isPrimary: true },
-      { name: "Schema Mapping & Referential Integrity", isPrimary: false }
-    ]
-  },
-  {
-    title: "Programming & Scripting",
-    icon: "Code",
-    skills: [
-      { name: "Python", isPrimary: true },
-      { name: "PySpark", isPrimary: true },
-      { name: "SQL (T-SQL & PL/SQL)", isPrimary: true },
-      { name: "C#", isPrimary: false },
-      { name: "Shell Scripting (Bash)", isPrimary: false },
-      { name: "PHP", isPrimary: false }
-    ]
-  },
-  {
-    title: "BI, DevOps & AI",
+    title: "DevOps, Automation & Tools",
     icon: "Cpu",
     skills: [
-      { name: "Power BI", isPrimary: true },
-      { name: "SSRS Reports", isPrimary: false },
-      { name: "Azure DevOps CI/CD Pipelines", isPrimary: true },
+      { name: "Azure DevOps", isPrimary: true },
+      { name: "CI/CD Pipelines", isPrimary: true },
       { name: "Git", isPrimary: true },
       { name: "Docker", isPrimary: false },
-      { name: "Agentic AI & LLM Automation", isPrimary: true }
+      { name: "Build & Release Management", isPrimary: true },
+      { name: "Agentic AI Automation", isPrimary: true }
+    ]
+  },
+  {
+    title: "BI & Reporting",
+    icon: "BarChart3",
+    skills: [
+      { name: "Power BI", isPrimary: true },
+      { name: "SSRS", isPrimary: true },
+      { name: "Data Mart Development", isPrimary: true }
     ]
   }
 ];

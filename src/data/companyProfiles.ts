@@ -111,7 +111,7 @@ export function getCompanyProfile(slug: string): CompanyCustomization {
       "Microsoft Azure DP-900, AZ-900 & Agentic AI Certified"
     ],
     focusedSkills: ["Azure Databricks", "PySpark", "Azure Data Factory", "SQL Server / PL/SQL", "Medallion Architecture"],
-    customResumePdfUrl: `/resumes/Deepak_Kumar_KC_${formattedCompanyName.replace(/\s+/g, "_")}.pdf`,
+    customResumePdfUrl: `/resumes/Deepak_Kumar_KC_2026-08-23.pdf`,
     welcomeNote: `Welcome ${formattedCompanyName} Technical Hiring Team! Explore my data engineering background, client project achievements, and cloud architecture capabilities.`
   };
 }
