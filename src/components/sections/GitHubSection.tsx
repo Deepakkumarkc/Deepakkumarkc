@@ -38,7 +38,7 @@ export const GitHubSection: React.FC = () => {
             Live GitHub Engineering Activity
           </h2>
           <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
-            Real-time contribution heatmaps, public repositories, and code statistics dynamically synced with GitHub.
+            Real-time contribution heatmaps, commit activity, and code statistics dynamically synced with GitHub.
           </p>
         </div>
 
@@ -105,10 +105,6 @@ export const GitHubSection: React.FC = () => {
               
               <div className="space-y-4">
                 <div className="flex items-center justify-between p-4 rounded-xl bg-slate-950/70 border border-slate-800/70">
-                  <span className="text-xs sm:text-sm text-slate-300">Public Repositories</span>
-                  <span className="font-mono text-lg font-bold text-azure-400">{stats ? stats.publicRepos : "11+"}</span>
-                </div>
-                <div className="flex items-center justify-between p-4 rounded-xl bg-slate-950/70 border border-slate-800/70">
                   <span className="text-xs sm:text-sm text-slate-300">Followers</span>
                   <span className="font-mono text-lg font-bold text-emerald-400">{stats ? stats.followers : "5"}</span>
                 </div>
@@ -131,54 +127,6 @@ export const GitHubSection: React.FC = () => {
             </Card>
           </div>
 
-        </div>
-
-        {/* Public Featured Repositories Grid */}
-        <div className="space-y-4 pt-4">
-          <h3 className="text-2xl font-bold text-white tracking-tight flex items-center gap-2.5">
-            <Github className="w-6 h-6 text-azure-400" /> Public Code Repositories
-          </h3>
-
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {stats && stats.repos.length > 0 ? (
-              stats.repos.map((repo) => (
-                <Card key={repo.id} hoverEffect className="space-y-4 bg-slate-900/90 border-slate-800 p-6 flex flex-col justify-between">
-                  <div className="space-y-2">
-                    <div className="flex items-center justify-between">
-                      <a
-                        href={repo.html_url}
-                        target="_blank"
-                        rel="noreferrer"
-                        className="font-bold text-azure-400 hover:underline flex items-center gap-2 text-lg truncate"
-                      >
-                        {repo.name} <ExternalLink className="w-4 h-4 shrink-0" />
-                      </a>
-                    </div>
-                    <p className="text-xs sm:text-sm text-slate-300 leading-relaxed line-clamp-3">
-                      {repo.description || "Azure Data Engineering & Analytics repository."}
-                    </p>
-                  </div>
-
-                  <div className="space-y-3 pt-3 border-t border-slate-800/80">
-                    <div className="flex items-center justify-between text-xs text-slate-400">
-                      <span className="flex items-center gap-1.5">
-                        <span className="w-2.5 h-2.5 rounded-full bg-azure-400"></span>
-                        {repo.language || "Python"}
-                      </span>
-                      <div className="flex items-center gap-4">
-                        <span className="flex items-center gap-1"><Star className="w-4 h-4 text-amber-400" /> {repo.stargazers_count}</span>
-                        <span className="flex items-center gap-1"><GitFork className="w-4 h-4 text-slate-400" /> {repo.forks_count}</span>
-                      </div>
-                    </div>
-
-                    <p className="text-[11px] text-slate-500 font-mono">Updated: {repo.updated_at}</p>
-                  </div>
-                </Card>
-              ))
-            ) : (
-              <p className="text-xs text-slate-400 col-span-full">Loading repositories from GitHub...</p>
-            )}
-          </div>
         </div>
 
       </div>
