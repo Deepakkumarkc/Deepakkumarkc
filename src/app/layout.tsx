@@ -16,7 +16,7 @@ const mono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://github.com/Deepakkumarkc"),
+  metadataBase: new URL("https://deepakkumarkc.vercel.app"),
   title: `${profileData.name} | ${profileData.primaryTitle}`,
   description: profileData.tagline,
   keywords: [
@@ -29,6 +29,11 @@ export const metadata: Metadata = {
     "Oracle PL/SQL",
     "Medallion Architecture",
     "Data Migration",
+    "ETL ELT",
+    "Azure Synapse Analytics",
+    "Microsoft Fabric",
+    "Delta Lake",
+    "Canada On-Site Experience",
     "Deepak Kumar KC"
   ],
   authors: [{ name: profileData.name }],
@@ -36,7 +41,7 @@ export const metadata: Metadata = {
     title: `${profileData.name} - ${profileData.primaryTitle}`,
     description: profileData.tagline,
     type: "website",
-    url: profileData.githubUrl,
+    url: "https://deepakkumarkc.vercel.app",
     images: [
       {
         url: "https://raw.githubusercontent.com/Deepakkumarkc/Deepakkumarkc/main/assets/hero_banner_animated.gif",

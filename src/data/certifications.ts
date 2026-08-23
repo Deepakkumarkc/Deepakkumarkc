@@ -17,8 +17,8 @@ export const certifications: Certification[] = [
   },
   {
     id: "claude-code-agentic-ai",
-    title: "Claude Code in Action — Agentic AI for Software Development",
-    issuer: "Anthropic / Agentic AI",
+    title: "Agentic AI for Software Development (Claude Code in Action)",
+    issuer: "Anthropic / Claude",
     category: "ai"
   },
   {
@@ -35,7 +35,7 @@ export const achievements: Achievement[] = [
     title: "Star Performance Award",
     date: "September 23, 2023",
     organization: "Sagitec Solutions",
-    description: "Received the Star Performance Award for exceptional contributions in managing simultaneous roles within the PBAS application, leading data conversion and sync-up processes with zero downtime, and assisting QA teams."
+    description: "Received the Star Performance Award for exceptional contributions in managing simultaneous roles within the PBAS application. Successfully led the data conversion and sync-up process while providing valuable assistance to the testing team, showcasing strong multitasking abilities and dedication to achieving project goals."
   }
 ];
 

@@ -17,7 +17,7 @@ export const About: React.FC = () => {
             Engineering High-Performance Cloud Data Architectures
           </h2>
           <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
-            Specializing in Azure Data Factory, Azure Databricks, PySpark, T-SQL, and Oracle PL/SQL for U.S. and Canadian public sector domains.
+            Specializing in Azure Data Factory, Azure Databricks, PySpark, T-SQL, Oracle PL/SQL, Azure Synapse Analytics, and Microsoft Fabric for U.S. and Canadian public sector domains.
           </p>
         </div>
 
@@ -49,9 +49,9 @@ export const About: React.FC = () => {
             <div className="w-12 h-12 rounded-xl bg-azure-500/10 border border-azure-500/30 flex items-center justify-center text-azure-400">
               <Cloud className="w-6 h-6" />
             </div>
-            <h3 className="text-xl font-bold text-white">Azure Cloud Ecosystem</h3>
+            <h3 className="text-xl font-bold text-white">Azure & Lakehouse Ecosystem</h3>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
-              Expert in designing end-to-end data pipelines using Azure Data Factory (ADF), Azure Databricks, ADLS Gen2, and Azure SQL Database with CI/CD deployment via Azure DevOps.
+              Expert in designing end-to-end data pipelines using Azure Data Factory (ADF), Azure Databricks, ADLS Gen2, Azure Synapse Analytics, Microsoft Fabric / OneLake, and Azure SQL Database with CI/CD deployment via Azure DevOps.
             </p>
           </Card>
 
@@ -71,7 +71,7 @@ export const About: React.FC = () => {
             </div>
             <h3 className="text-xl font-bold text-white">AI R&D & Automation</h3>
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
-              Pioneering Python automation scripts and AI-assisted data pipelines leveraging legacy data mapping documents to accelerate U.S. and Canadian pension workflow development.
+              Writing Python automation scripts and AI-assisted data pipelines leveraging legacy data-mapping documents and data-modelling artefacts to cut manual engineering effort and shorten delivery timelines for U.S. and Canadian pension workflows.
             </p>
           </Card>
         </div>

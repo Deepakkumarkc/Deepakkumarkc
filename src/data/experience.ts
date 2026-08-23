@@ -28,11 +28,11 @@ export const workExperiences: WorkExperience[] = [
         title: "Alaska Division of Retirement and Benefits (ASKDRB)",
         client: "State of Alaska (Public Sector)",
         period: "01/2025 – 03/2026",
-        location: "Canada / Remote",
+        location: "Canada (On-Site)",
         domain: "Public Sector Retirement Systems",
-        summary: "Architected PySpark data transformation scripts and batch workflows on Azure Databricks to migrate 100+ tables for 800GB+ pension environments.",
+        summary: "Worked on-site in Canada, engaging directly with client stakeholders to architect PySpark transformation scripts and batch workflows on Azure Databricks, migrating 100+ tables across an 800GB+ pension environment.",
         highlights: [
-          "Collaborated directly with client stakeholders to elicit requirements and codify complex business logic into scalable data conversion rules.",
+          "Worked on-site in Canada, engaging directly with client stakeholders to turn complex business logic into scalable data conversion rules for a large-scale data migration project.",
           "Developed and optimized PySpark scripts within Azure Databricks to transform and load large-scale pension datasets, ensuring data integrity across 100+ tables.",
           "Engineered manual SQL data pipelines and on-premises SQL Server management routines to synchronize multi-environment refresh cycles.",
           "Coordinated with Technical Architects to resolve data discrepancies, tune SQL jobs, and maintain pipeline stability for an 800 GB+ dataset environment.",
@@ -91,10 +91,10 @@ export const workExperiences: WorkExperience[] = [
       }
     ],
     crossProjectContributions: [
-      "Enterprise Data Framework: Designed and maintained a reusable data-processing framework standardizing logging, error handling, and debugging across 5+ client projects (PBAS, HEB, ASKDRB, TCRS, MainePRS).",
-      "Mentored junior developers, improving team productivity and code consistency.",
-      "Performance Tuning: Optimized stored procedures, functions, and views in PL/SQL and T-SQL for data volumes up to 800GB.",
-      "CI/CD Implementation: Automated deployment of SQL scripts and SSIS packages across Dev, QA, and Prod using Azure DevOps."
+      "Enterprise Data Framework: Designed and maintained a reusable data-processing framework standardising logging, error handling, and debugging across 5 client projects (PBAS, HEB, ASKDRB, TCRS, MainePRS); documented it and mentored junior developers.",
+      "Performance Tuning: Tuned PL/SQL and T-SQL stored procedures, functions, and views for data volumes up to 800 GB, cutting execution time on critical reports.",
+      "CI/CD Implementation: Automated SQL script and SSIS package deployment across Dev/QA/Prod through Azure DevOps pipelines, reducing release risk.",
+      "Pipeline Architecture: Led design of batch and incremental pipelines integrating on-prem SQL Server with ADF, Databricks, and Blob Storage."
     ]
   },
   {
@@ -102,7 +102,7 @@ export const workExperiences: WorkExperience[] = [
     title: "Software Developer Intern",
     period: "12/2020 – 08/2021",
     location: "Bangalore, India",
-    summary: "Contributed to the full SDLC of a Virtual Lab platform using PHP, Python, MongoDB, and Docker containerization.",
+    summary: "Built components of a Virtual Lab platform in PHP, Python, and MongoDB; containerised services with Docker for consistent deployment; worked across the full SDLC — requirements, development, code review, testing, and documentation.",
     projects: [
       {
         id: "virtual-lab",

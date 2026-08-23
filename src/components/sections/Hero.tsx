@@ -2,7 +2,7 @@
 
 import React from "react";
 import Image from "next/image";
-import { ArrowRight, FileText, Mail, Database, ShieldCheck, Zap } from "lucide-react";
+import { ArrowRight, Download, Mail, Database, ShieldCheck, Zap, MapPin } from "lucide-react";
 import { profileData } from "@/data/profile";
 import { Button } from "@/components/ui/Button";
 import { Badge } from "@/components/ui/Badge";
@@ -37,7 +37,7 @@ export const Hero: React.FC = () => {
                 Hi, I&apos;m <span className="bg-gradient-to-r from-azure-400 via-azure-500 to-cyan-300 bg-clip-text text-transparent">{profileData.name}</span>
               </h1>
               <p className="text-lg sm:text-xl lg:text-2xl font-semibold text-azure-400 font-mono">
-                Azure Data Engineer | Databricks (PySpark) & ADF Specialist
+                Data Engineer | Azure Databricks & ADF | PySpark | ETL/ELT
               </p>
             </div>
 
@@ -57,6 +57,9 @@ export const Hero: React.FC = () => {
               <Badge variant="gold" className="text-xs sm:text-sm py-1 px-3">
                 <ShieldCheck className="w-4 h-4 mr-1.5 text-amber-400" /> Star Award 2023 Winner
               </Badge>
+              <Badge variant="secondary" className="text-xs sm:text-sm py-1 px-3">
+                <MapPin className="w-4 h-4 mr-1.5 text-slate-300" /> On-Site Canada Experience
+              </Badge>
             </div>
 
             {/* Action Buttons */}
@@ -64,11 +67,17 @@ export const Hero: React.FC = () => {
               <Button href="#projects" variant="primary" size="lg">
                 View Featured Projects <ArrowRight className="w-4 h-4" />
               </Button>
-              <Button href="#contact" variant="outline" size="lg">
-                <Mail className="w-4 h-4" /> Contact Me
+              <Button
+                href={profileData.resumePdfUrl}
+                target="_blank"
+                rel="noreferrer"
+                variant="outline"
+                size="lg"
+              >
+                <Download className="w-4 h-4" /> Download Resume
               </Button>
-              <Button href={profileData.linkedinUrl} target="_blank" rel="noreferrer" variant="ghost" size="lg">
-                <FileText className="w-4 h-4" /> LinkedIn Profile
+              <Button href={`mailto:${profileData.email}`} variant="ghost" size="lg">
+                <Mail className="w-4 h-4" /> Contact Me
               </Button>
             </div>
           </div>
@@ -100,8 +109,8 @@ export const Hero: React.FC = () => {
                 {/* Details */}
                 <div className="text-center space-y-1">
                   <h3 className="text-2xl font-bold text-white tracking-tight">{profileData.name}</h3>
-                  <p className="text-sm text-azure-400 font-mono">Senior Data Engineering Function</p>
-                  <p className="text-xs text-slate-400">Chennai, Tamil Nadu, India</p>
+                  <p className="text-sm text-azure-400 font-mono">Data Engineer | Azure Cloud</p>
+                  <p className="text-xs text-slate-400">{profileData.location}</p>
                 </div>
 
                 {/* Metrics */}
@@ -113,6 +122,14 @@ export const Hero: React.FC = () => {
                   <div className="bg-slate-950/70 rounded-xl p-3 border border-slate-800/60">
                     <span className="block text-xl font-bold text-emerald-400 font-mono">800GB+</span>
                     <span className="text-xs text-slate-400">Dataset Migration</span>
+                  </div>
+                  <div className="bg-slate-950/70 rounded-xl p-3 border border-slate-800/60">
+                    <span className="block text-xl font-bold text-amber-400 font-mono">5 Clients</span>
+                    <span className="text-xs text-slate-400">Enterprise Projects</span>
+                  </div>
+                  <div className="bg-slate-950/70 rounded-xl p-3 border border-slate-800/60">
+                    <span className="block text-xl font-bold text-cyan-400 font-mono">100+</span>
+                    <span className="text-xs text-slate-400">Tables Migrated</span>
                   </div>
                 </div>
 

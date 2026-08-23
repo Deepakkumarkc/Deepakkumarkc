@@ -5,22 +5,22 @@
 
 <!-- Live Interactive Next.js Portfolio Web App CTA -->
 <p align="center">
-  <a href="http://localhost:3000" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_LAUNCH_LIVE_NEXT.JS_PORTFOLIO_WEBSITE-00F0FF?style=for-the-badge&logo=nextdotjs&logoColor=black" alt="Launch Live Portfolio Web App" />
+  <a href="https://deepakkumarkc.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_LAUNCH_LIVE_PORTFOLIO_WEBSITE-00F0FF?style=for-the-badge&logo=nextdotjs&logoColor=black" alt="Launch Live Portfolio Web App" />
   </a>
   &nbsp;
   <a href="https://github.com/Deepakkumarkc/Deepakkumarkc" target="_blank">
-    <img src="https://img.shields.io/badge/💻_VIEW_NEXT.JS_SOURCE_CODE-10B981?style=for-the-badge&logo=react&logoColor=white" alt="View Source Code" />
+    <img src="https://img.shields.io/badge/💻_VIEW_SOURCE_CODE-10B981?style=for-the-badge&logo=react&logoColor=white" alt="View Source Code" />
   </a>
 </p>
 
 ## 🚀 **About Me**
 
-Passionate **Azure Data Engineer** building high-throughput **ETL/ELT data pipelines**, executing **large-scale enterprise database migrations**, and engineering **Medallion Lakehouses** (Bronze/Silver/Gold) on Azure.
+**Data Engineer** with **4+ years of experience** building **ETL/ELT pipelines**, **Data Warehouses**, and **large-scale data migration projects** for U.S. and Canadian public sector clients — including an **on-site engagement in Canada**.
 
-I specialize in **Azure Data Factory (ADF)**, **Azure Databricks (PySpark)**, **Delta Lake**, and **Azure DevOps CI/CD** to transform raw data into enterprise-ready data products.
+Hands-on with **Azure Databricks**, **Azure Data Factory (ADF)**, **PySpark**, **T-SQL**, and **Oracle PL/SQL**. Led an **800GB+ pension data migration across 100+ tables** with zero critical data loss. Designed a **reusable data-processing framework** now standardised across **five client projects**. Extended expertise into lakehouse architecture with **Delta Lake**, **ADLS Gen2**, **Azure Synapse Analytics**, and **Microsoft Fabric / OneLake**. **Microsoft Azure DP-900 & AZ-900 certified**.
 
-> 💡 *Focused on clean data models, robust pipeline resilience, sub-second query performance, and continuous integration.*
+> 💡 *Focused on clean data models, robust pipeline resilience, sub-second query performance, and continuous integration across public sector cloud data platforms.*
 
 ---
 
@@ -30,21 +30,31 @@ I specialize in **Azure Data Factory (ADF)**, **Azure Databricks (PySpark)**, **
   <tr>
     <td width="50%" valign="top">
       <h3>🏗️ Medallion Lakehouse Architecture</h3>
-      <p>Designing multi-layered data lakes (<b>Bronze/Silver/Gold</b>) using <b>Azure Databricks</b> and <b>Delta Lake</b> for ACID compliance, data quality enforcement, and business intelligence reporting.</p>
+      <p>Designing multi-layered data lakes (<b>Bronze/Silver/Gold</b>) using <b>Azure Databricks</b>, <b>Delta Lake</b>, <b>Azure Synapse Analytics</b>, and <b>Microsoft Fabric / OneLake</b> for ACID compliance, data quality enforcement, and BI reporting.</p>
     </td>
     <td width="50%" valign="top">
       <h3>🔄 Pipeline Orchestration & Hybrid Sync</h3>
-      <p>Architecting resilient, automated pipelines in <b>Azure Data Factory (ADF)</b>, hybrid SSIS integration, and enterprise data replication across cloud and on-premise sources.</p>
+      <p>Architecting resilient, automated pipelines in <b>Azure Data Factory (ADF)</b>, hybrid SSIS integration, and enterprise data replication across cloud and on-premise sources — including batch and incremental load strategies.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>⚡ Distributed PySpark Processing</h3>
-      <p>Building high-throughput batch and streaming ETL jobs with <b>PySpark</b>, optimizing partition strategies, memory management, and execution graphs for multi-GB analytics.</p>
+      <p>Building high-throughput batch ETL jobs with <b>PySpark</b> on Azure Databricks, optimizing partition strategies, memory management, and execution graphs for 800GB+ pension dataset processing.</p>
     </td>
     <td width="50%" valign="top">
       <h3>🎯 SQL & PL/SQL Performance Tuning</h3>
-      <p>Specialist in database query optimization across <b>SQL Server</b> and <b>Oracle PL/SQL</b>, refactoring stored procedures, index strategies, and execution plans.</p>
+      <p>Specialist in database query optimization across <b>SQL Server (T-SQL)</b> and <b>Oracle PL/SQL</b>, refactoring stored procedures, index strategies, and execution plans — cutting execution time on critical reports.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌍 On-Site Client Delivery (Canada)</h3>
+      <p>Direct stakeholder engagement in Canada on the <b>Alaska Division of Retirement and Benefits (ASKDRB)</b> project, turning complex business logic into scalable data conversion rules for public pension systems.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Agentic AI & Automation R&D</h3>
+      <p>Pioneering <b>Python automation scripts</b> and <b>AI-assisted data pipelines</b> that leverage legacy data-mapping artefacts to accelerate U.S. and Canadian pension workflow development — reducing manual engineering effort.</p>
     </td>
   </tr>
 </table>
@@ -58,6 +68,8 @@ I specialize in **Azure Data Factory (ADF)**, **Azure Databricks (PySpark)**, **
   <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure_ADLS_Gen2-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_Synapse_Analytics-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Fabric-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white"/>
   <img src="https://img.shields.io/badge/Delta_Lake-000000?style=for-the-badge&logo=delta-lake&logoColor=white"/>
 </p>
@@ -67,8 +79,6 @@ I specialize in **Azure Data Factory (ADF)**, **Azure Databricks (PySpark)**, **
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle_PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure_SQL_DB-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ### 🔁 **Data Engineering & BI Tools**
@@ -85,7 +95,7 @@ I specialize in **Azure Data Factory (ADF)**, **Azure Databricks (PySpark)**, **
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
 ---
@@ -93,16 +103,19 @@ I specialize in **Azure Data Factory (ADF)**, **Azure Databricks (PySpark)**, **
 ## ⚙️ **Tech Stack Visual Overview**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,py,postgres,mysql,git,github,linux,powershell,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=azure,py,postgres,git,github,linux,powershell,vscode,docker,cs" />
 </p>
 
 ---
 
 ## 🏆 **Key Accomplishments & Impact**
 
-- 🥇 **Star Performance Award** – Honored for outstanding technical contribution in optimizing business-critical data pipelines.
-- 📦 **Enterprise Data Migration** – Successfully led the migration, validation, and zero-downtime cutover of large-scale enterprise databases.
-- ⚡ **Performance Acceleration** – Refactored legacy stored procedures, partitioning, and indexing strategies to cut batch execution windows.
+- 🥇 **Star Performance Award (September 2023)** — Received from Sagitec Solutions for exceptional contributions managing simultaneous roles within the PBAS application, leading data conversion and sync-up operations with zero downtime.
+- 📦 **800GB+ Enterprise Data Migration** — Led zero-critical-data-loss migration of 800GB+ pension datasets across 100+ tables for the Alaska Division of Retirement and Benefits (ASKDRB), with on-site stakeholder engagement in Canada.
+- 🔧 **Reusable Data Framework** — Designed and maintained a reusable data-processing framework standardising logging, error handling, and debugging — now used across 5 enterprise client projects (PBAS, HEB, ASKDRB, TCRS, MainePRS).
+- ⚡ **SQL Performance Tuning** — Tuned PL/SQL and T-SQL stored procedures, functions, and views for data volumes up to 800GB, cutting execution time on critical reports.
+- 🤖 **AI R&D Pioneer** — Contributing to an Agentic AI initiative leveraging legacy data-mapping documents to automate pension workflow generation, reducing manual engineering effort across U.S. and Canadian deployments.
+- ☁️ **Microsoft Azure Certified** — DP-900 (Azure Data Fundamentals) & AZ-900 (Azure Fundamentals).
 
 ---
 
@@ -147,6 +160,10 @@ I specialize in **Azure Data Factory (ADF)**, **Azure Databricks (PySpark)**, **
   &nbsp;
   <a href="https://medium.com/@Deepakananthkc">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  &nbsp;
+  <a href="https://deepakkumarkc.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Portfolio" />
   </a>
 </p>
 
