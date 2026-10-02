@@ -49,6 +49,9 @@ export const Hero: React.FC = () => {
             {/* Badges */}
             <div className="flex flex-wrap gap-2.5 pt-1">
               <Badge variant="primary" className="text-xs sm:text-sm py-1 px-3">
+                <ShieldCheck className="w-4 h-4 mr-1.5 text-azure-400" /> DP-700 & DP-750 Certified
+              </Badge>
+              <Badge variant="primary" className="text-xs sm:text-sm py-1 px-3">
                 <Database className="w-4 h-4 mr-1.5 text-azure-400" /> Medallion Architecture
               </Badge>
               <Badge variant="emerald" className="text-xs sm:text-sm py-1 px-3">

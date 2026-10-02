@@ -2,6 +2,20 @@ import { Certification, Achievement, Education } from "@/types/portfolio";
 
 export const certifications: Certification[] = [
   {
+    id: "fabric-data-engineer-dp-700",
+    title: "Fabric Data Engineer Associate (DP-700)",
+    issuer: "Microsoft",
+    category: "cloud",
+    credentialUrl: "https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/"
+  },
+  {
+    id: "azure-databricks-data-engineer-dp-750",
+    title: "Azure Databricks Data Engineer Associate (DP-750)",
+    issuer: "Microsoft / Databricks",
+    category: "cloud",
+    credentialUrl: "https://learn.microsoft.com/en-us/credentials/"
+  },
+  {
     id: "dp-900",
     title: "Microsoft Azure Data Fundamentals (DP-900)",
     issuer: "Microsoft Azure",

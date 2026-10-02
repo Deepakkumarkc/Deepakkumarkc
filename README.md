@@ -18,7 +18,7 @@
 
 **Engineer - Data (Azure Data Engineering)** with **4+ years of experience** building **ETL/ELT pipelines**, **Data Warehouses**, and **large-scale data migration projects** for U.S. and Canadian public sector clients — including an **on-site engagement in Canada**.
 
-Hands-on experience with **Azure Databricks**, **Azure Data Factory (ADF)**, **PySpark**, **T-SQL**, and **Oracle PL/SQL**, including **800GB+ pension data migration across 100+ tables** with zero critical data loss. Developed a **reusable data-processing framework** now used across **five client projects**. Extended expertise to lakehouse architecture with **Delta Lake**, **ADLS Gen2**, **Azure Synapse Analytics**, and **Microsoft Fabric / OneLake**. **Microsoft Azure DP-900 & AZ-900 certified**.
+Hands-on experience with **Azure Databricks**, **Azure Data Factory (ADF)**, **PySpark**, **T-SQL**, and **Oracle PL/SQL**, including **800GB+ pension data migration across 100+ tables** with zero critical data loss. Developed a **reusable data-processing framework** now used across **five client projects**. Extended expertise to lakehouse architecture with **Delta Lake**, **ADLS Gen2**, **Azure Synapse Analytics**, and **Microsoft Fabric / OneLake**. **Certified in Fabric Data Engineer Associate (DP-700)**, **Azure Databricks Data Engineer Associate (DP-750)**, along with **Microsoft Azure DP-900 & AZ-900**.
 
 > 💡 *Focused on clean data models, robust pipeline resilience, sub-second query performance, and continuous integration across public sector cloud data platforms.*
 
@@ -62,6 +62,14 @@ Hands-on experience with **Azure Databricks**, **Azure Data Factory (ADF)**, **P
 ---
 
 ## 🛠️ **Technical Toolkit & Ecosystem**
+
+### 📜 **Certifications & Accreditations**
+<p>
+  <img src="https://img.shields.io/badge/Fabric_Data_Engineer_Associate-DP--700-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_Databricks_Data_Engineer_Associate-DP--750-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_Data_Fundamentals-DP--900-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_Fundamentals-AZ--900-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+</p>
 
 ### ☁️ **Cloud Platforms & Data Lakehouse**
 <p>
@@ -115,7 +123,7 @@ Hands-on experience with **Azure Databricks**, **Azure Data Factory (ADF)**, **P
 - 🔧 **Reusable Data Framework** — Designed and maintained a reusable data-processing framework standardising logging, error handling, and debugging — now used across 5 enterprise client projects (PBAS, HEB, ASKDRB, TCRS, MainePRS).
 - ⚡ **SQL Performance Tuning** — Tuned PL/SQL and T-SQL stored procedures, functions, and views for data volumes up to 800GB, cutting execution time on critical reports.
 - 🤖 **AI R&D Pioneer** — Contributing to an Agentic AI initiative leveraging legacy data-mapping documents and data-modelling artefacts to automate pension workflow generation across U.S. and Canadian deployments.
-- ☁️ **Microsoft Azure Certified** — DP-900 (Azure Data Fundamentals) & AZ-900 (Azure Fundamentals).
+- ☁️ **Microsoft Azure & Data Certifications** — **Fabric Data Engineer Associate (DP-700)**, **Azure Databricks Data Engineer Associate (DP-750)**, DP-900 (Azure Data Fundamentals) & AZ-900 (Azure Fundamentals).
 
 ---
 

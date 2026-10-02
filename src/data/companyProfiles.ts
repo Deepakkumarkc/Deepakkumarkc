@@ -27,7 +27,7 @@ export const companyProfilesRegistry: Record<string, CompanyCustomization> = {
       "Azure Databricks PySpark DataFrame optimization & Medallion Lakehouses (Bronze/Silver/Gold)",
       "Proven track record migrating 800GB+ legacy relational schemas with zero critical data loss",
       "Reusable Enterprise Data Framework standardizing logging & debugging across multi-region deployments",
-      "Microsoft Azure DP-900 & AZ-900 Certified with Agentic AI workflow automation expertise"
+      "Fabric Data Engineer Associate (DP-700) & Azure Databricks Data Engineer (DP-750) Certified with Agentic AI workflow automation expertise"
     ],
     focusedSkills: ["Azure Databricks", "PySpark", "Azure Data Factory (ADF)", "T-SQL", "Medallion Architecture", "Azure DevOps"],
     customResumePdfUrl: "/resumes/Deepak_Kumar_KC_TCS.pdf",
@@ -59,7 +59,7 @@ export const companyProfilesRegistry: Record<string, CompanyCustomization> = {
       "Architected enterprise logging framework across 5+ parallel client migration projects",
       "PySpark & Databricks Delta Lake processing for 100+ complex relational table schemas",
       "Azure DevOps CI/CD deployment pipelines for auditable database delivery",
-      "DP-900 & AZ-900 Certified with strong client-facing requirement elicitation background"
+      "Certified Fabric (DP-700) & Databricks (DP-750) Data Engineer with strong client-facing requirement elicitation background"
     ],
     focusedSkills: ["Azure Databricks", "PySpark", "Agentic AI Automation", "Azure Data Factory", "CI/CD Pipelines"],
     customResumePdfUrl: "/resumes/Deepak_Kumar_KC_Accenture.pdf",
@@ -75,7 +75,7 @@ export const companyProfilesRegistry: Record<string, CompanyCustomization> = {
       "Optimized T-SQL stored procedures and Oracle views for 800GB+ datasets achieving 40%+ speedups",
       "Engineered custom C# Process Hold-Back module for complex application file-upload ingestion",
       "100% data integrity certification across 100+ tables in public-sector client cut-overs",
-      "Azure DP-900, AZ-900 & Power BI Essential Training (NASBA) Certified"
+      "Certified Fabric Data Engineer (DP-700), Databricks Engineer (DP-750), Azure DP-900 & AZ-900"
     ],
     focusedSkills: ["T-SQL", "Oracle PL/SQL", "Azure Data Factory", "C# Ingestion", "Performance Tuning"],
     customResumePdfUrl: "/resumes/Deepak_Kumar_KC_Wipro.pdf",
@@ -108,7 +108,7 @@ export function getCompanyProfile(slug: string): CompanyCustomization {
       "Architected end-to-end Azure Databricks & Data Factory pipelines tailored for enterprise clients",
       "Migrated 800GB+ legacy datasets with zero critical data loss across 100+ tables",
       "Designed reusable enterprise data framework standardizing logging & error handling across 5+ projects",
-      "Microsoft Azure DP-900, AZ-900 & Agentic AI Certified"
+      "Certified Fabric Data Engineer Associate (DP-700), Azure Databricks Data Engineer (DP-750) & Agentic AI Certified"
     ],
     focusedSkills: ["Azure Databricks", "PySpark", "Azure Data Factory", "SQL Server / PL/SQL", "Medallion Architecture"],
     customResumePdfUrl: `/resumes/Deepak_Kumar_KC_2026-08-23.pdf`,

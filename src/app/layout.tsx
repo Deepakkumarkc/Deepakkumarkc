@@ -21,6 +21,10 @@ export const metadata: Metadata = {
   description: profileData.tagline,
   keywords: [
     "Azure Data Engineer",
+    "Fabric Data Engineer Associate",
+    "DP-700",
+    "Azure Databricks Data Engineer Associate",
+    "DP-750",
     "Databricks",
     "PySpark",
     "Azure Data Factory",
